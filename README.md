@@ -1,4 +1,4 @@
-我是**Takagi**！我目前在**上海交通大学**学习计算机科学技术。我对编程和网页开发充满热情，熟练掌握C++和Python语言。我喜欢探索新的技术，目前正在使用Docker和GitHub来优化我的开发流程，同时也在使用React和Node.js进行前端和后端开发。
+我是**Takagi**！now a **SJTUer**
 
 - 💻 **编程**：working on it...
 - 📺 **动漫**：fan of からかい上手の高木さん
