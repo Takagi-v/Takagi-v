@@ -2,8 +2,7 @@
 Now a **SJTUer**
 
 - 💻 **编程**：working on it...
-- 📺 **动漫**：からかい上手の高木さん
-
+- 📺 **动漫**：からかい上手の高木さん<br>
                 サマータイムレンダ (Summer Time Re-rendering)
 
 ## 技能
