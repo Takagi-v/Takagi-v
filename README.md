@@ -8,12 +8,12 @@ My research interests include **LLM post-training, coding agents, reinforcement 
 
 ## Research
 
-**[Revealing Long-context Potential of Attention Heads via Frequency Kernels](https://proceedings.mlr.press/v306/han26e.html)**  
+**[Revealing Long-context Potential of Attention Heads via Frequency Kernels](https://openreview.net/forum?id=DPtc1Tz0g8)**  
 Senyu Han, **Yilu Cao**, Kai Yu, Lu Chen · **ICML 2026**
 
 Static frequency-kernel analysis for identifying attention heads with long-context potential. My contributions include method research, discussions with the first author, and baseline evaluation.
 
-[Paper](https://proceedings.mlr.press/v306/han26e.html) · [PDF](https://raw.githubusercontent.com/mlresearch/v306/main/assets/han26e/han26e.pdf) · [Code](https://github.com/OpenDFM/long-context-heads)
+[OpenReview](https://openreview.net/forum?id=DPtc1Tz0g8) · [PDF](https://openreview.net/pdf?id=DPtc1Tz0g8) · [Code](https://github.com/OpenDFM/long-context-heads)
 
 ## Experience
 
